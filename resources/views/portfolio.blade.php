@@ -538,7 +538,7 @@
             .hero-title {
                 font-size: 4rem;
             }
-            
+
             h1, h2 {
                 font-size: 2.5rem;
             }
@@ -548,21 +548,21 @@
             .hero-title {
                 font-size: 3.5rem;
             }
-            
+
             h1, h2 {
                 font-size: 2.2rem;
             }
-            
+
             .grid {
                 grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
                 gap: 20px;
             }
-            
+
             nav {
                 gap: 20px;
                 padding: 12px 25px;
             }
-            
+
             nav a {
                 font-size: 13px;
             }
@@ -597,19 +597,19 @@
                 top: 10px;
                 right: 10px;
             }
-            
+
             .about-card, .card {
                 padding: 25px;
             }
-            
+
             section {
                 padding: 80px 15px;
             }
-            
+
             .project-filter {
                 gap: 10px;
             }
-            
+
             .filter-btn {
                 padding: 8px 16px;
                 font-size: 0.9rem;
@@ -620,38 +620,38 @@
             .hero-title {
                 font-size: 2rem;
             }
-            
+
             .hero-subtitle {
                 font-size: 1.2rem;
             }
-            
+
             h1, h2 {
                 font-size: 1.8rem;
             }
-            
+
             .cta-button {
                 padding: 12px 30px;
                 font-size: 1rem;
             }
-            
+
             .about-card, .card {
                 padding: 20px;
             }
-            
+
             .timeline-item {
                 padding: 20px;
             }
-            
+
             .social-icon {
                 width: 40px;
                 height: 40px;
                 font-size: 1.2rem;
             }
-            
+
             #cursor, #cursor-trail {
                 display: none;
             }
-            
+
             body {
                 cursor: auto;
             }
@@ -661,24 +661,24 @@
             .hero-title {
                 font-size: 1.8rem;
             }
-            
+
             .hero-subtitle {
                 font-size: 1rem;
             }
-            
+
             h1, h2 {
                 font-size: 1.5rem;
             }
-            
+
             .grid {
                 gap: 15px;
             }
-            
+
             .project-filter {
                 flex-direction: column;
                 align-items: center;
             }
-            
+
             .filter-btn {
                 width: 100%;
                 max-width: 200px;
@@ -715,7 +715,7 @@
             .mobile-toggle {
                 display: flex;
             }
-            
+
             nav {
                 flex-direction: column;
                 width: 80%;
@@ -727,20 +727,20 @@
                 visibility: hidden;
                 transition: 0.3s;
             }
-            
+
             nav.active {
                 opacity: 1;
                 visibility: visible;
             }
-            
+
             .mobile-toggle.active span:nth-child(1) {
                 transform: rotate(45deg) translate(5px, 5px);
             }
-            
+
             .mobile-toggle.active span:nth-child(2) {
                 opacity: 0;
             }
-            
+
             .mobile-toggle.active span:nth-child(3) {
                 transform: rotate(-45deg) translate(7px, -6px);
             }
@@ -792,8 +792,8 @@
                <p style="font-size: 1.2rem; line-height: 1.8; color: var(--text-secondary);">
     📍 Location: India<br>
     💼 Profession: Web Developer | Backend Developer | Laravel Developer<br><br>
-    Passionate backend developer with a strong focus on building robust, scalable, and efficient web applications. 
-    Experienced in server-side logic, API development, database management, and system architecture. 
+    Passionate backend developer with a strong focus on building robust, scalable, and efficient web applications.
+    Experienced in server-side logic, API development, database management, and system architecture.
     Dedicated to crafting secure and high-performance backend solutions that power seamless user experiences.
 </p>
 
@@ -828,7 +828,7 @@
                     <p><strong>Coursera</strong> | 2023</p>
                     <p>Deep dive into ES6+, async programming, and modern frameworks</p>
                 </div>
-               
+
                 <div class="timeline-item">
                     <h3>🔧 Laravel Framework</h3>
                     <p><strong>Laracasts</strong> | 2025</p>
@@ -839,8 +839,8 @@
                     <p><strong>LinkedIn Learning</strong> | 2025</p>
                     <p>Database optimization and query performance</p>
                 </div>
-              
-              
+
+
             </div>
         </div>
     </section>
@@ -848,15 +848,15 @@
     <section id="projects">
         <div class="container">
             <h2>Featured Projects</h2>
-         
+
             <div class="grid" id="projects-grid">
               <div class="card project-card" data-category="web">
     <div class="project-img">👨‍💼</div>
     <h3>Employee Management System (EMS)</h3>
     <p>
-        A comprehensive Employee Management System developed for a client in Asmara, Africa. 
-        The platform handles all HR-related activities including employee registration, attendance tracking (clock in/out, break in/out), leave management, and salary receipts. 
-        It also maintains complete employee history and records. 
+        A comprehensive Employee Management System developed for a client in Asmara, Africa.
+        The platform handles all HR-related activities including employee registration, attendance tracking (clock in/out, break in/out), leave management, and salary receipts.
+        It also maintains complete employee history and records.
         Equipped with a powerful Admin Panel to manage all operations efficiently — built as a large-scale enterprise solution.
     </p>
     <div class="tech-stack">
@@ -871,9 +871,9 @@
     <div class="project-img">📚</div>
     <h3>Book Store E-Commerce Platform</h3>
     <p>
-        A full-stack online bookstore where users can purchase and read books online after purchase. 
-        Includes secure payment integrations with Razorpay, PayPal, and Stripe. 
-        Features a powerful Admin Panel for product and order management, and a dedicated Customer Panel for user profiles, order tracking, and digital downloads. 
+        A full-stack online bookstore where users can purchase and read books online after purchase.
+        Includes secure payment integrations with Razorpay, PayPal, and Stripe.
+        Features a powerful Admin Panel for product and order management, and a dedicated Customer Panel for user profiles, order tracking, and digital downloads.
         Designed for seamless user experience and smooth transaction flow.
     </p>
     <div class="tech-stack">
@@ -892,8 +892,8 @@
     <div class="project-img">⚙️</div>
     <h3>Product Management API</h3>
     <p>
-        A Laravel-based API built for a product management application focused on industrial items such as machines, nuts, bolts, and steel products. 
-        The API powers a live mobile application available on the Play Store and provides endpoints for product listing, inventory updates, and order tracking. 
+        A Laravel-based API built for a product management application focused on industrial items such as machines, nuts, bolts, and steel products.
+        The API powers a live mobile application available on the Play Store and provides endpoints for product listing, inventory updates, and order tracking.
         Integrated with a secure Admin Panel for complete app and user management, ensuring smooth backend operations and scalability.
     </p>
     <div class="tech-stack">
@@ -905,10 +905,10 @@
     </div>
 </div>
 
-               
-              
-               
-             
+
+
+
+
             </div>
         </div>
     </section>
@@ -922,8 +922,8 @@
     <p><strong>Elevate Company</strong></p>
     <p>June 2024 - July 2024</p>
     <p style="margin-top: 15px;">
-        Completed a task-based internship at Elevate Company focused on enhancing skills in Laravel and frontend development. 
-        Worked on real-world projects, building dynamic web interfaces and backend logic using Laravel, HTML, CSS, and JavaScript. 
+        Completed a task-based internship at Elevate Company focused on enhancing skills in Laravel and frontend development.
+        Worked on real-world projects, building dynamic web interfaces and backend logic using Laravel, HTML, CSS, and JavaScript.
         Gained practical experience in integrating frontend and backend systems for full-stack web solutions.
     </p>
 </div>
@@ -933,24 +933,24 @@
     <p><strong>Codetech Company</strong></p>
     <p>Online | 1 Month</p>
     <p style="margin-top: 15px;">
-        Completed an online, task-based internship focused on backend development using PHP and MySQL. 
-        Gained hands-on experience in API creation, database handling, and server-side logic. 
+        Completed an online, task-based internship focused on backend development using PHP and MySQL.
+        Gained hands-on experience in API creation, database handling, and server-side logic.
         Successfully submitted all assigned projects and tasks within the given timeframe.
     </p>
 </div>
 
-             
+
              <div class="card">
     <h3>🤖 Backend & AI/ML Intern</h3>
     <p><strong>IBM</strong></p>
     <p>Online | 1 Month</p>
     <p style="margin-top: 15px;">
-        Completed a one-month online internship with IBM focused on backend development and emerging technologies in Python and AI/ML. 
+        Completed a one-month online internship with IBM focused on backend development and emerging technologies in Python and AI/ML.
         Gained practical knowledge of data processing, model integration, and automation workflows while completing task-based projects under expert guidance.
     </p>
 </div>
 
-                
+
             </div>
         </div>
     </section>
@@ -963,8 +963,8 @@
     <h3>💼 Junior Laravel | PHP  Developer</h3>
     <p><strong>Hashkrio Tech LLP</strong> | Jan 2025 - Jun 2025</p>
     <p>
-        Worked as a PHP/Laravel developer, gaining a strong understanding of the Laravel framework and best practices. 
-        Contributed to live project development, including backend logic, database management, and API integration. 
+        Worked as a PHP/Laravel developer, gaining a strong understanding of the Laravel framework and best practices.
+        Contributed to live project development, including backend logic, database management, and API integration.
         Collaborated with the team to deliver high-quality web applications for clients.
     </p>
 </div>
@@ -973,13 +973,13 @@
     <h3>🚀 Laravel Developer</h3>
     <p><strong>Breventa Technologies Private Limited</strong> | July 2025 - Present</p>
     <p>
-        Successfully completed 4–5 Laravel projects, delivering robust and scalable web applications that met client requirements. 
-        Recognized by both clients and the company for high-quality work and timely delivery. 
+        Successfully completed 4–5 Laravel projects, delivering robust and scalable web applications that met client requirements.
+        Recognized by both clients and the company for high-quality work and timely delivery.
         Gained extensive experience in backend development, database management, API integration, and custom web solutions, contributing to overall company success and client satisfaction.
     </p>
 </div>
 
-                
+
             </div>
         </div>
     </section>
@@ -1003,7 +1003,7 @@
                     <div class="skill-bar"><div class="skill-progress" data-progress="92"></div></div>
                     <p style="margin-top: 10px; font-size: 0.9rem;">72%</p>
                 </div>
-          
+
                 <div class="skill-item">
                     <div class="skill-name">Laravel</div>
                     <div class="skill-bar"><div class="skill-progress" data-progress="87"></div></div>
@@ -1085,7 +1085,7 @@
                 <div class="form-group">
                     <textarea rows="6" placeholder="Your Message" required></textarea>
                 </div>
-                <button type="submit" class="cta-button" style="width: 100%;">Send Message ✨</button>
+                <button type="submit" class="cta-button" style="width: 100%;">Send Message✨</button>
             </form>
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
@@ -1140,7 +1140,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
-    
+
 
 <script>
 /* --- Basic protections: block right-click, drag, and many keys --- */
@@ -1233,11 +1233,11 @@
         // Custom Cursor
         const cursor = document.getElementById('cursor');
         const cursorTrail = document.getElementById('cursor-trail');
-        
+
         document.addEventListener('mousemove', (e) => {
             cursor.style.left = e.clientX + 'px';
             cursor.style.top = e.clientY + 'px';
-            
+
             setTimeout(() => {
                 cursorTrail.style.left = e.clientX + 'px';
                 cursorTrail.style.top = e.clientY + 'px';
@@ -1255,13 +1255,13 @@
         });
 
         // Theme Toggle
-        
+
 
         // Three.js Scene Setup
         const scene = new THREE.Scene();
         const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
         const renderer = new THREE.WebGLRenderer({ alpha: true, antialias: true });
-        
+
         renderer.setSize(window.innerWidth, window.innerHeight);
         renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
         document.getElementById('three-container').appendChild(renderer.domElement);
@@ -1270,13 +1270,13 @@
         const particlesGeometry = new THREE.BufferGeometry();
         const particlesCount = 5000;
         const posArray = new Float32Array(particlesCount * 3);
-        
+
         for(let i = 0; i < particlesCount * 3; i++) {
             posArray[i] = (Math.random() - 0.5) * 100;
         }
-        
+
         particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
-        
+
         const particlesMaterial = new THREE.PointsMaterial({
             size: 0.05,
             color: 0x00ffff,
@@ -1284,7 +1284,7 @@
             opacity: 0.8,
             blending: THREE.AdditiveBlending
         });
-        
+
         const particlesMesh = new THREE.Points(particlesGeometry, particlesMaterial);
         scene.add(particlesMesh);
 
@@ -1307,7 +1307,7 @@
             transparent: true,
             opacity: 0.3
         });
-        
+
         for(let i = 0; i < 5; i++) {
             const sphere = new THREE.Mesh(sphereGeo, sphereMat);
             sphere.position.set(
@@ -1325,7 +1325,7 @@
         let mouseY = 0;
         let targetX = 0;
         let targetY = 0;
-        
+
         document.addEventListener('mousemove', (event) => {
             mouseX = (event.clientX / window.innerWidth) * 2 - 1;
             mouseY = -(event.clientY / window.innerHeight) * 2 + 1;
@@ -1333,28 +1333,28 @@
 
         // Animation Loop
         const clock = new THREE.Clock();
-        
+
         function animate() {
             requestAnimationFrame(animate);
-            
+
             const elapsedTime = clock.getElapsedTime();
-            
+
             // Animate particles
             particlesMesh.rotation.y = elapsedTime * 0.05;
             particlesMesh.rotation.x = elapsedTime * 0.03;
-            
+
             // Animate torus knot
             torusKnot.rotation.x = elapsedTime * 0.3;
             torusKnot.rotation.y = elapsedTime * 0.5;
-            
+
             // Smooth camera movement
             targetX = mouseX * 5;
             targetY = mouseY * 5;
-            
+
             camera.position.x += (targetX - camera.position.x) * 0.05;
             camera.position.y += (targetY - camera.position.y) * 0.05;
             camera.lookAt(scene.position);
-            
+
             renderer.render(scene, camera);
         }
         animate();
@@ -1449,7 +1449,7 @@
         window.addEventListener('scroll', () => {
             const navbar = document.getElementById('navbar');
             const currentScroll = window.scrollY;
-            
+
             if (currentScroll > 100) {
                 navbar.style.background = 'rgba(10, 10, 10, 0.95)';
                 navbar.style.backdropFilter = 'blur(20px)';
@@ -1475,7 +1475,7 @@
                 e.preventDefault();
                 const target = document.querySelector(this.getAttribute('href'));
                 target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-                
+
                 // Close mobile menu if open
                 if (window.innerWidth <= 768) {
                     mobileToggle.classList.remove('active');
@@ -1498,9 +1498,9 @@
                 // Remove active class from all buttons
                 filterBtns.forEach(b => b.classList.remove('active'));
                 btn.classList.add('active');
-                
+
                 const filter = btn.getAttribute('data-filter');
-                
+
                 projectCards.forEach(card => {
                     if (filter === 'all' || card.getAttribute('data-category') === filter) {
                         gsap.to(card, {
@@ -1528,10 +1528,10 @@
             e.preventDefault();
             const button = e.target.querySelector('button');
             const originalText = button.innerHTML;
-            
+
             button.innerHTML = '✓ Message Sent Successfully!';
             button.style.background = 'linear-gradient(45deg, #00ff00, #00cc00)';
-            
+
             setTimeout(() => {
                 button.innerHTML = originalText;
                 button.style.background = 'linear-gradient(45deg, var(--accent-1), var(--accent-2))';
@@ -1545,16 +1545,16 @@
                 const rect = card.getBoundingClientRect();
                 const x = e.clientX - rect.left;
                 const y = e.clientY - rect.top;
-                
+
                 const centerX = rect.width / 2;
                 const centerY = rect.height / 2;
-                
+
                 const rotateX = (y - centerY) / 10;
                 const rotateY = (centerX - x) / 10;
-                
+
                 card.style.transform = `perspective(1000px) rotateX(${rotateX}deg) rotateY(${rotateY}deg) translateY(-10px)`;
             });
-            
+
             card.addEventListener('mouseleave', () => {
                 card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0) translateY(0)';
             });
@@ -1594,7 +1594,7 @@
 
         window.addEventListener('scroll', () => {
             let current = '';
-            
+
             sections.forEach(section => {
                 const sectionTop = section.offsetTop;
                 const sectionHeight = section.clientHeight;
@@ -1626,7 +1626,7 @@
                 particle.style.pointerEvents = 'none';
                 particle.style.zIndex = '9998';
                 document.body.appendChild(particle);
-                
+
                 gsap.to(particle, {
                     opacity: 0,
                     scale: 0,
@@ -1639,7 +1639,7 @@
         // Mobile Navigation Toggle
         const mobileToggle = document.getElementById('mobile-toggle');
         const navbar = document.getElementById('navbar');
-        
+
         mobileToggle.addEventListener('click', () => {
             mobileToggle.classList.toggle('active');
             navbar.classList.toggle('active');
